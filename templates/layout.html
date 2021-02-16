@@ -1,0 +1,66 @@
+{% extends "bootstrap/base.html" %}
+
+
+{% block title %}i am indecisive{% endblock %}
+
+
+{% block styles %}
+{{super()}}
+<!-- Material Design Bootstrap -->
+<link href="static/mdb.min.css" rel="stylesheet">
+
+<!-- My custom styles -->
+<link rel="stylesheet" href="{{url_for('.static', filename='style.css')}}">
+<!-- Font Awesome icons (free version)-->
+<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+<!-- Google fonts-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+{% endblock %}
+
+
+{% block navbar %}
+<!-- Navigation -->
+<nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
+	<div class="container-fluid">
+		<a class="navbar-brand" href="#"><img id="logo" src="static/img/logo/logo-removebg.png"></a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarResponsive">
+			<ul class="navbar-nav ml-auto">
+				<li class="nav-item">
+					<a class="nav-link" href="/">Home</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="/about">About</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="/whattoeat">What To Eat - Beta</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</nav>
+{% endblock %}
+
+
+{% block content %}
+{{super()}}
+
+{% block footer %}
+<!--- Footer -->
+<footer>
+	<div class="container-fluid padding">
+		<div class="row text-center">
+			<div class="col-md-12">
+				<p>Maybe I should just write something here instead.</p>
+			</div>
+			<div class="col-12">
+				<hr class="light-100">
+				<h5>&copy; 2020 - xxxx.com</h5>
+			</div>
+		</div>
+	</div>
+</footer>
+{% endblock %}
+{% endblock %}

@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "name": "The Kebab Shop",
+        "image": "static/img/restaurants/kebab.jpg",
+        "url": "https://www.thekebabshop.com/",
+        "tag": "Mideast"
+    },
+    {
+        "id": 2,
+        "name": "Tandoor",
+        "image": "static/img/restaurants/tandoor.jpg",
+        "url": "http://www.tandoorsandiego.com/menu.html",
+        "tag": "Mideast"
+    },
+    {
+        "id": 3,
+        "name": "Koon Thai Kitchen",
+        "image": "static/img/restaurants/koonthai.jpg",
+        "url": "https://www.koonthaikitchen.com/",
+        "tag": "Asian"
+    },
+    {
+        "id": 4,
+        "name": "Subway",
+        "image": "static/img/restaurants/subway.png",
+        "url": "https://www.subway.com/en-us",
+        "tag": "Healthy"
+    },
+    {
+        "id": 5,
+        "name": "El Pollo Loco",
+        "image": "static/img/restaurants/elpolloloco.png",
+        "url": "https://www.elpolloloco.com/",
+        "tag": "High-Protein, Mexican"
+    },
+    {
+        "id": 6,
+        "name": "Phil's BBQ",
+        "image": "static/img/restaurants/philsbbq.jpg",
+        "url": "https://philsbbq.net/",
+        "tag": "High-Protein"
+    },
+    {
+        "id": 7,
+        "name": "Roberto's Taco Shop",
+        "image": "static/img/restaurants/tacoshop.jpg",
+        "url": "https://robertostacoshop.com/menu/",
+        "tag": "Mexican"
+    },
+    {
+        "id": 8,
+        "name": "RoVino The Foodery",
+        "image": "static/img/restaurants/rovino.png",
+        "url": "http://rovinothefoodery.com/",
+        "tag": "Italian"
+    },
+    {
+        "id": 9,
+        "name": "Chick-fil-A",
+        "image": "static/img/restaurants/chickfila.png",
+        "url": "https://www.chick-fil-a.com/",
+        "tag": "Fast Food"
+    },
+    {
+        "id": 10,
+        "name": "The Habit Burger Grill",
+        "image": "static/img/restaurants/thehabit.png",
+        "url": "https://www.habitburger.com/",
+        "tag": "Fast Food"
+    },
+    {
+        "id": 11,
+        "name": "Sushi Deli 3",
+        "image": "static/img/restaurants/sushideli.jpg",
+        "url": "https://www.sushideliusa.com/sushi-deli-3",
+        "tag": "Asian"
+    },
+    {
+        "id": 12,
+        "name": "Pick Up Stix",
+        "image": "static/img/restaurants/pickupstix.png",
+        "url": "https://www.pickupstix.com/",
+        "tag": "Asian"
+    },
+    {
+        "id": 13,
+        "name": "Five Guys",
+        "image": "static/img/restaurants/fiveguys.png",
+        "url": "https://www.fiveguys.com/",
+        "tag": "Fast Food"
+    },
+    {
+        "id": 14,
+        "name": "Flame Broiler",
+        "image": "static/img/restaurants/flamebroiler.jpeg",
+        "url": "https://flamebroilerusa.com/",
+        "tag": "Asian"
+    },
+    {
+        "id": 15,
+        "name": "Panera Bread",
+        "image": "static/img/restaurants/panerabread.png",
+        "url": "https://www.panerabread.com/en-us/home.html",
+        "tag": "New, Italian"
+    },
+    {
+        "id": 16,
+        "name": "Popeyes",
+        "image": "static/img/restaurants/popeyes.png",
+        "url": "https://www.popeyes.com/",
+        "tag": "Fast Food, High-Protein"
+    },
+    {
+        "id": 17,
+        "name": "Applebee",
+        "image": "static/img/restaurants/applebees.jpg",
+        "url": "https://www.applebees.com/en",
+        "tag": "New"
+    },
+    {
+        "id": 18,
+        "name": "Taco Bell",
+        "image": "static/img/restaurants/tacobell.jpg",
+        "url": "https://www.tacobell.com/",
+        "tag": "Mexican, Fast Food"
+    }
+]
